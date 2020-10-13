@@ -1,0 +1,15 @@
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.csprojAssemblyReference.cache
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.Properties.Resources.resources
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.csproj.GenerateResource.cache
+H:\C#\Project\laborMgt\bin\Debug\laborMgt.exe.config
+H:\C#\Project\laborMgt\bin\Debug\laborMgt.exe
+H:\C#\Project\laborMgt\bin\Debug\laborMgt.pdb
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.Form1.resources
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.exe
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.pdb
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.Admin.resources
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.Labor.resources
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.Manager.resources
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.SignIn.resources
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.laborIn.resources
+H:\C#\Project\laborMgt\obj\Debug\laborMgt.ManagerAdd.resources
